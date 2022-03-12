@@ -2,7 +2,7 @@
 - 👀 I’m interested in photography and cinema
 - 🌱 I’m currently learning HTML5
 -
-- 📫 How to reach me http://www.fotobn.com
+- 📫 How to reach me https://www.fotobn.com
 
 <!---
 Fotobn/Fotobn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
